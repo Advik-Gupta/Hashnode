@@ -9,6 +9,8 @@ Making a first youtube video is a nerve-wracking experience but I just made it, 
 
 Also, I plan to release the pre-alpha of the app in some time to get the first response from actual users and work upon that.
 
+### Days 1 - 5
+
 Speaking of the app I made some decent progress, the basic user profiles are finished and I can start working on the user connections. Adding friends sending messages and all that good stuff. Then I'll get to the virtual trading system, the part I am most excited about, it's one of the more complex features on the site. I am pretty excited to build it.
 
 Thanks for reading
