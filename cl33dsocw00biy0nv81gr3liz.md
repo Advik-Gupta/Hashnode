@@ -1,6 +1,12 @@
-## Building a startup - Day 2
+## Building a startup - The Idea | Day 1 & 2
 
-Made a decent amount of progress in the app.
+The idea is pretty simple. At the start of the lockdown, a digital version of the game Ludo blew up. It got me thinking do people still want to play old classic games they used to play in their childhood and early days, probably yes. We don't wanna go through the hassle of playing the physical version but we'll play it if the online version is available.
+
+From here GameSite was born. I am basically collecting some of the classic games all of us love, like monopoly, ludo, cards and chess and putting it all together into one mega platform with tons of other functionality. You can make video, voice or chat rooms with your friends or stranger and play tons of games with a few other awesome features.
+
+### Day 1 & 2
+
+Till now I have made a decent amount of progress in the app.
 
 User authentication ✅
 
