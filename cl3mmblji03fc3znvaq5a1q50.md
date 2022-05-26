@@ -39,4 +39,4 @@ Advik
 [Instagram](https://www.instagram.com/advikguptadev/)<br>
 [Github](https://github.com/Advik-Gupta)<br>
 
-PS - You can also check out the youtube channel that I started recently for videos related to the startup. I code the startup and show you the whole journey of making it from scratch. The link for that will be on my profile.
+PS - You can also check out the youtube channel that I started recently for videos related to the startup. I code the startup and show you the whole journey of making it from scratch. The link for that will be up.
